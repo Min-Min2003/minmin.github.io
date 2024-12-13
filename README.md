@@ -18,3 +18,8 @@
 
 <h2>Contact</h2>
 <p>Email: <a href="mailto:minm98103@gmail.com">minm98103@gmail.com</a></p>
+
+Future Goals
+Learn advanced backend skills: Docker, AWS, and GraphQL.
+Collaborate on open-source projects.
+Transition to full-stack development.
