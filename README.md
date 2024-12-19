@@ -21,6 +21,7 @@
 </section>
 <h2>Projects</h2>
 <ul>
+    <li><a href="https://github.com/Min-Min2003/web-design">Web design</a></li>
     <li><a href="https://github.com/Min-Min2003/Laundry_Service">Laundry Service</a></li>
     <li><a href="https://github.com/Min-Min2003/onlinefood">Online Food</a></li>
 </ul>
